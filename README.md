@@ -11,7 +11,7 @@ As seguintes instruções irão criar uma cópia do projeto na sua máquina loca
 - MySQL (Passos para instalação estão no arquivo "DatabaseInstructions" (https://github.com/afigueredo-stack/jdbc-basic/blob/master/src/main/resources/DatabaseInstructions.txt)
 
 ### Instalação
-Com os pré requisitos instalados, basta baixar esse projeto no seu IDE (através do comando "git clone") e seguir os passos que estão no arquivo "DatabaseInstructions" (https://github.com/afigueredo-stack/jdbc-basic/tree/master/src/main/java/resources/DatabaseInstructions.txt) para instanciar os bancos de dados, tabelas e alguns registros para teste.
+Com os pré requisitos instalados, basta baixar esse projeto no seu IDE (através do comando "git clone") e seguir os passos que estão no arquivo "DatabaseInstructions" (https://github.com/afigueredo-stack/jdbc-basic/blob/master/src/main/resources/DatabaseInstructions.txt) para instanciar os bancos de dados, tabelas e alguns registros para teste.
 
 ## Executar
 Basta rodar a função "main" da classe compilada de uma das seguintes classes:
