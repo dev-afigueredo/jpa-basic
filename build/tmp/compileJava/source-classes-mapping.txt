@@ -1,0 +1,10 @@
+JpaSemImplementacao.java
+ JpaSemImplementacao
+entity/Aluno.java
+ entity.Aluno
+JpqlImplementado.java
+ JpqlImplementado
+entity/Estado.java
+ entity.Estado
+JpaComImplementacao.java
+ JpaComImplementacao
